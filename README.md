@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RahulSahakari
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rajasahakari@gmail.com
 
