@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RahulSahakari
 - 👀 I’m interested in Coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rajasahakari@gmail.com
+- 💞️ I’m currently not looking to collaborate...
 
 <!---
 RahulSahakari/RahulSahakari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
